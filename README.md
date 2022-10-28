@@ -7,7 +7,8 @@ University of Technology.
 
 # Tools and Skills
 
-<img src="https://github-readme-stats.vercel.app/api?username=zlapik&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+<img src="https://github-readme-stats.vercel.app/api?username=zlapik&show_icons=true&theme=transparent&bg_color=151515" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlapik&langs_count=10&layout=compact&theme=transparent&bg_color=151515" />
 
 # Connect with me
 

@@ -1,8 +1,10 @@
 Hi there :wave:
 ---
 
-##### My name is Zdeněk Lapeš
-##### I am a student at the Faculty of Information Technology at Brno University of Technology.
+My name is __Zdeněk Lapeš__
+
+I'm in my 3rd year of studies towards a bachelor's in Computer Sciences at the Faculty of Information Technology at Brno
+University of Technology.
 
 
 Tools and Skills
@@ -14,5 +16,7 @@ Tools and Skills
 
 Connect with me
 ---
-<a href="https://www.linkedin.com/in/zdenek-lapes/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
-<a href="https://twitter.com/zlapik"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="twitter"/>
+<div style="margin: 0 auto">
+    <a href="https://www.linkedin.com/in/zdenek-lapes/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
+    <a href="https://twitter.com/zlapik"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="twitter"/>
+</div>

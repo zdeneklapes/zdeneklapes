@@ -7,7 +7,9 @@ Hi there :wave:
 
 Tools and Skills
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=zlapik&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+<div style="margin: 0 auto">
+    <img src="https://github-readme-stats.vercel.app/api?username=zlapik&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+</div>
 
 
 Connect with me

@@ -1,14 +1,34 @@
 # Hi there :wave:
 
-My name is __Zdeněk Lapeš__
+![Visit counter](https://komarev.com/ghpvc/?username=zdeneklapes&color=green)
 
 I'm in my 3rd year of studies towards a bachelor's in Computer Sciences at the Faculty of Information Technology at Brno
 University of Technology.
 
-<img src="https://github-readme-stats.vercel.app/api?username=zdeneklapes&show_icons=true&theme=transparent&bg_color=151515" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdeneklapes&langs_count=10&layout=compact&theme=transparent&bg_color=151515" />
+[**Did you see my developer track?**](https://ossinsight.io/analyze/zdeneklapes)
 
-## Connect with me
+<p align="center">
+<img width="53%"  src="https://github-readme-stats.vercel.app/api?username=zdeneklapes&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true&theme=transparent&bg_color=151515" />
+<img width="46%"  src="https://github-readme-streak-stats.herokuapp.com?user=zdeneklapes&theme=transparent&hide_border=true" />
+</p>
 
-<a href="https://www.linkedin.com/in/zdenek-lapes/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
-<a href="https://twitter.com/zdeneklapes"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="twitter"/>
+## 🌐 Get in Touch:
+
+<p align="left">
+<a href="https://twitter.com/zdeneklapes"target="blank">
+<img align="center" 
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+alt="zdeneklapes" 
+height="30" 
+width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/zdeneklapes/" target="blank">
+<img align="center" 
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+alt="in/zdeneklapes" 
+height="30" 
+width="40" />
+</a>
+</p>
+

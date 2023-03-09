@@ -8,7 +8,7 @@ University of Technology.
 [**Did you see my developer track?**](https://ossinsight.io/analyze/zdeneklapes)
 
 <p align="center">
-<img width="53%"  src="https://github-readme-stats.vercel.app/api?username=zdeneklapes&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true&theme=transparent&bg_color=151515" />
+<img width="53%"  src="https://github-readme-stats.vercel.app/api?username=zdeneklapes&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true&theme=transparent" />
 <img width="46%"  src="https://github-readme-streak-stats.herokuapp.com?user=zdeneklapes&theme=transparent&hide_border=true" />
 </p>
 

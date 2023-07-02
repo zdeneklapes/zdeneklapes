@@ -2,8 +2,7 @@
 
 ![Visit counter](https://komarev.com/ghpvc/?username=zdeneklapes&color=green)
 
-I'm in my 3rd year of studies towards a bachelor's in Computer Sciences at the Faculty of Information Technology at Brno
-University of Technology.
+I recently graduated with a Bachelor's degree in Computer Science from the Faculty of Information Technology at Brno University of Technology. Currently, I'm furthering my education by pursuing post-graduate studies in Machine Learning, specializing in the field of Computer Science at the same faculty.
 
 
 [**Did you see my developer track?**](https://ossinsight.io/analyze/zdeneklapes)

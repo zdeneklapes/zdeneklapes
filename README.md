@@ -13,23 +13,40 @@ I recently graduated with a Bachelor's degree in Computer Science from the Facul
 <img width="46%"  src="https://github-readme-streak-stats.herokuapp.com?user=zdeneklapes&theme=transparent&hide_border=true" />
 </p>
 
-## 🌐 Get in Touch:
+[//]: # (## 🌐 Get in Touch:)
 
-<p align="left">
-<a href="https://twitter.com/zdeneklapes"target="blank">
-<img align="center" 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-alt="zdeneklapes" 
-height="30" 
-width="40" />
-</a>
+[//]: # ()
+[//]: # (<p align="left">)
 
-<a href="https://www.linkedin.com/in/zdeneklapes/" target="blank">
-<img align="center" 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-alt="in/zdeneklapes" 
-height="30" 
-width="40" />
-</a>
-</p>
+[//]: # (<a href="https://twitter.com/zdeneklapes"target="blank">)
 
+[//]: # (<img align="center" )
+
+[//]: # (src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" )
+
+[//]: # (alt="zdeneklapes" )
+
+[//]: # (height="30" )
+
+[//]: # (width="40" />)
+
+[//]: # (</a>)
+
+[//]: # ()
+[//]: # (<a href="https://www.linkedin.com/in/zdeneklapes/" target="blank">)
+
+[//]: # (<img align="center" )
+
+[//]: # (src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" )
+
+[//]: # (alt="in/zdeneklapes" )
+
+[//]: # (height="30" )
+
+[//]: # (width="40" />)
+
+[//]: # (</a>)
+
+[//]: # (</p>)
+
+[//]: # ()

@@ -2,7 +2,11 @@
 
 ![Visit counter](https://komarev.com/ghpvc/?username=zdeneklapes&color=green)
 
-I recently graduated with a Bachelor's degree in Computer Science from the Faculty of Information Technology at Brno University of Technology. Currently, I'm furthering my education by pursuing post-graduate studies in Machine Learning, specializing in the field of Computer Science at the same faculty.
+[//]: # (I recently graduated with a Bachelor's degree in Computer Science from the Faculty of Information Technology at Brno University of Technology. Currently, I'm furthering my education by pursuing post-graduate studies in Machine Learning, specializing in the field of Computer Science at the same faculty.)
+
+My name is Zdeněk Lapes.
+
+I like to improve myself in whatever I do...Currently it's a programming, developing business and learning as much knowledge as possible during my master's studies at the Faculty of Information Technology at Brno University of Technology.
 
 
 [**Did you see my developer track?**](https://ossinsight.io/analyze/zdeneklapes)

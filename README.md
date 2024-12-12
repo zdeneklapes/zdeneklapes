@@ -2,55 +2,24 @@
 
 ![Visit counter](https://komarev.com/ghpvc/?username=zdeneklapes&color=green)
 
-[//]: # (I recently graduated with a Bachelor's degree in Computer Science from the Faculty of Information Technology at Brno University of Technology. Currently, I'm furthering my education by pursuing post-graduate studies in Machine Learning, specializing in the field of Computer Science at the same faculty.)
+My name is **Zdeněk Lapes**.
 
-My name is Zdeněk Lapes.
+I like to improve myself in whatever I do...Currently it's a programming, doing devops, investing in stock and crypto market and learning as much knowledge as possible during my master's studies at the Faculty of Information Technology at Brno University of Technology.
 
-I like to improve myself in whatever I do...Currently it's a programming, developing business and learning as much knowledge as possible during my master's studies at the Faculty of Information Technology at Brno University of Technology.
+## What can I offer?
 
+I possess professional expertise in various fields, including **frontend development, backend development, infrastructure management, devops**
+
+My programming language proficiency includes (but is not limited to): **C/C++, Python, TypeScript/JavaScript, Bash, Swift, SQL, Rust, Golang, HTML, CSS and others...**
 
 [**Did you see my developer track?**](https://ossinsight.io/analyze/zdeneklapes)
-
 
 <p align="center">
 <img width="53%"  src="https://github-readme-stats.vercel.app/api?username=zdeneklapes&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true&theme=transparent" />
 <img width="46%"  src="https://github-readme-streak-stats.herokuapp.com?user=zdeneklapes&theme=transparent&hide_border=true" />
 </p>
 
-[//]: # (## 🌐 Get in Touch:)
 
-[//]: # ()
-[//]: # (<p align="left">)
 
-[//]: # (<a href="https://twitter.com/zdeneklapes"target="blank">)
-
-[//]: # (<img align="center" )
-
-[//]: # (src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" )
-
-[//]: # (alt="zdeneklapes" )
-
-[//]: # (height="30" )
-
-[//]: # (width="40" />)
-
-[//]: # (</a>)
-
-[//]: # ()
-[//]: # (<a href="https://www.linkedin.com/in/zdeneklapes/" target="blank">)
-
-[//]: # (<img align="center" )
-
-[//]: # (src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" )
-
-[//]: # (alt="in/zdeneklapes" )
-
-[//]: # (height="30" )
-
-[//]: # (width="40" />)
-
-[//]: # (</a>)
-
-[//]: # (</p>)
-
-[//]: # ()
+## Get in touch
+Feel free to schedule a meeting with me through 📅 [Calendly](https://calendly.com/lapes-zdenek/30min) or contact me directly at 📧 [lapes.zdenek@gmail.com](mailto:lapes.zdenek@gmail.com).
